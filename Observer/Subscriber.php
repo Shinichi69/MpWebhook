@@ -2,7 +2,7 @@
 /**
  * Mageplaza
  *
- * NOTICE OF LICENSE
+ * NOTICE OF LICENSE_ABC
  *
  * This source file is subject to the Mageplaza.com license that is
  * available through the world-wide-web at this URL:
